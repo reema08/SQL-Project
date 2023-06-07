@@ -30,6 +30,11 @@ In this work, i have Created different metrics for this dataset in  4 days, with
   - later than the expected date etc.
 
 
+📃Dashboard
+---
+<img width="800" alt="Screenshot 2023-06-07 233027" src="https://github.com/reema08/SQL-Project/assets/109653833/60d1e54e-ea0e-4511-8387-d52a6ef45d71">
+
+
 Area of responsibility - Wrote several SQL queries to gather valuable information from data. Also, by using excel created a dashboard that shows all the determined insights at one glance. Lastly mentioned suggestions to improve the performance & growth of the company.
 
 <image src="https://github.com/reema08/SQL-Project/assets/109653833/4235b047-5fbe-46e5-b339-b499c666b9d9" width="80" hight="80" /> Google Drive Link :
