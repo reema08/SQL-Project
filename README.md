@@ -31,3 +31,9 @@ In this work, i have Created different metrics for this dataset in  4 days, with
 
 
 Area of responsibility - Wrote several SQL queries to gather valuable information from data. Also, by using excel created a dashboard that shows all the determined insights at one glance. Lastly mentioned suggestions to improve the performance & growth of the company.
+
+<image src="https://github.com/reema08/SQL-Project/assets/109653833/4235b047-5fbe-46e5-b339-b499c666b9d9" width="80" hight="80" /> Google Drive Link :
+---
+* All the necessary data in one folder : [Click here](https://drive.google.com/drive/folders/1XM9joR4kLw7W7tNjBqe1mDqrLCU70S6K?usp=drive_link)
+
+
