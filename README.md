@@ -29,6 +29,10 @@ In this work, i have Created different metrics for this dataset in  4 days, with
   - % of orders delivered earlier than the expected date 
   - later than the expected date etc.
 
+* TECH STACK 
+  - M S Excel
+  - SQL Server
+
 
 📃Dashboard
 ---
